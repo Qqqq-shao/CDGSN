@@ -46,4 +46,4 @@ On the contrary, a heterophilous edge reflects that the two connected nodes have
 # Plese cite our paper as:
 
 
-
+Mengqiu Shao, Peng Xue, Xi Zhou, and Xiao Shen*. Contrastive Domain-adaptive Graph Selective Self-training Network for Cross-network Edge Classification. Pattern Recognition, vol. 152, 110448, 2024.
